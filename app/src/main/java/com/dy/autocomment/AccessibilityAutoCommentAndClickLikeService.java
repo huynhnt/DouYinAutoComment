@@ -61,6 +61,7 @@ public class AccessibilityAutoCommentAndClickLikeService extends AccessibilitySe
     private DownTimer timer;
     public String adName="广告";
     /**************版本更新只需修改此部分的6个id即可***********************/
+    /*************** Bản cập nhật phiên bản chỉ cần sửa đổi 6 id trong phần này *************************/
     //视频发布的左下角音乐封面id
     public String enterMainAcTag="com.ss.android.ugc.aweme:id/fne";
     //视频浏览时遇到的直播的底部中间的大的LinearLayoutId：包含点击进入直播间文字在内的父容器
